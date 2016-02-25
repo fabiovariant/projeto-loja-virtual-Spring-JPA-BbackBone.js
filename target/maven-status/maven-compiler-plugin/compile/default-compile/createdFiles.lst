@@ -1,0 +1,8 @@
+br\com\teste\repository\impl\BaseDao.class
+br\com\teste\repository\ProductDao.class
+br\com\teste\controller\ShoppingController.class
+br\com\teste\service\ProductManager.class
+br\com\teste\service\impl\ProductManagerImpl.class
+br\com\teste\repository\impl\ProductDaoImpl.class
+br\com\teste\models\BaseModel.class
+br\com\teste\models\Product.class
