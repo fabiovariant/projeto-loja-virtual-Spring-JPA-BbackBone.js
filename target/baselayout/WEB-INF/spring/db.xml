@@ -18,9 +18,9 @@
 
     <bean class="org.apache.commons.dbcp.BasicDataSource" destroy-method="close" id="dataSource">
         <property name="driverClassName" value="org.postgresql.Driver"/>
-        <property name="url" value="jdbc:postgresql://localhost:5432/products"/>
-        <property name="username" value="postgres"/>
-    	<property name="password" value="postgres"/>
+        <property name="url" value="jdbc:postgresql://ec2-54-204-20-209.compute-1.amazonaws.com:5432/dbfcmr13hjg106"/>
+        <property name="username" value="ldmbdcsfrckrfw"/>
+    	<property name="password" value="hpU7CnvX4wOo-t-xl4JNPFOtq0"/>
         <property name="testOnBorrow" value="true"/>
         <property name="testOnReturn" value="true"/>
         <property name="testWhileIdle" value="true"/>
